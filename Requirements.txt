@@ -1,0 +1,9 @@
+streamlit
+openai
+python-dotenv
+"camelot-py[cv]"
+PyPDF2
+pandas
+langchain
+langchain-community
+langchain-openai
