@@ -14,6 +14,7 @@ streamlit run Chatbot.py
 ```
 ## Version History
 v0.0 : Basic conversational capabilities
+
 v0.1 : Added ability to interpret text-based PDFs (not text in images)
 
 ## Future Plans
