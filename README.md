@@ -1,4 +1,5 @@
 # Custom Chatbot
+This is personalized chatbot that utilizes the RAG system that can answer questions on your own private dataset
 - Note: Backend uses OpenAI models, the required model can be selected within the file
 
 ## Setting up
