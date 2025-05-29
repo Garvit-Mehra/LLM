@@ -1,9 +1,13 @@
 streamlit
 openai
 python-dotenv
-"camelot-py[cv]"
-PyPDF2
 pandas
+PyMuPDF
+PyPDF2
+"camelot-py[cv]"
+Pillow
 langchain
 langchain-community
 langchain-openai
+faiss-cpu
+pdfplumber
